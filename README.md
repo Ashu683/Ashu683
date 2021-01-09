@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ashutosh verma</h1>
 <h3 align="center">A passionate Python developer with Data science skills</h3>
 
